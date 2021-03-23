@@ -9,7 +9,7 @@ The purpose of this project was to create a summary of the ride-sharing data by 
 
 <h2>Results</h2>
 
-<h3>Analysis of Summary</h3>
+<h3>Analysis of City Type Summary</h3>
 <p align="center">
 <img src="https://github.com/tc9993/PyBer-Analysis/blob/main/Analysis/city_type_df.png?raw=true" alt="Summary by City Type"><br>
 <b>Exhibit 1.1:</b> Summary by City Type
@@ -28,12 +28,15 @@ Of note is the differences in Total Drivers and Average Fare per Driver between 
 <img src="https://github.com/tc9993/PyBer-Analysis/blob/main/Analysis/PyBer_fare_summary.png?raw=true" alt="Total Fare by City Type" width=75% height=75%><br>
 <b>Exhibit 1.2:</b> Total Fare by City Type
 </p>
+<p>
+As shown in Exhibit 1.2, urban cities drive the most total revenue via fares week over week.  This graph is backed by the summary in Exhibit 1.1 that showed, in an overall summary, how urban cities generated around 9.75x more fare than rural cities.  In each given week from January to April of 2019 urban cities generated the most fare, followed by suburban cities, with rural cities generating the least amount of fare.
+</p>
 
 <h2>Summary</h2>
 
 <h3>Business Recommendations</h3>
 <ol>
-  <li></li>
+  <li><b>Data Collection:</b> To allow for expansion on this analysis, I would recommend collecting as much data as possible such as rider age, time of trip, trip distances, etc.  This would allow for more detailed analysis that extends beyond fare per ride or per driver.  Finding out the fare per distance and fare per minute could look drastically different as an addition to Exhibit 1.1 as well as tell us which cities are the most cost-effective ride-sharing solution for both patrons and the company.</li>
   <li></li>
   <li></li>
 </ol>
